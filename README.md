@@ -2,10 +2,10 @@
 I'm a passionate student and technology enthusiast. I love learn new tools and make things ✨
 <br/>
 <a href="https://twitter.com/panchocorderos">
-<img align="left" alt="Gonzalo Pozzo Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
+<img align="left" alt="Pancho Cordero Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
 </a>
 <a href="https://www.linkedin.com/in/panchocorderos/">
-<img align="left" alt="Gonzalo Pozzo LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+<img align="left" alt="Pancho Cordero LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
 
 <br />
@@ -15,7 +15,7 @@ I'm a passionate student and technology enthusiast. I love learn new tools and m
 <br />
 
 ## What i'm up to
-
+  
 - 🌱 I’m currently learning [React](https://reactjs.org).
 - 👯 Teacher in [School of Tech](https://www.schooloftech.cl/).
 - 😄 Pronouns: he/him
