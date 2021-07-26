@@ -10,7 +10,7 @@ I'm a passionate student and technology enthusiast. I love learn new tools and m
 
 <br />
 
-<img align="right" alt="GIF" src="./assets/me.jpg" width="240px" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/l41lUJ1YoZB1lHVPG/giphy.gif" width="240px" />
 
 <br />
 
