@@ -17,7 +17,7 @@ I'm a passionate student and technology enthusiast. I love learn new tools and m
 ## What i'm up to
   
 - 🌱 I’m currently learning [React](https://reactjs.org).
-- 👯 Teacher in [School of Tech](https://www.schooloftech.cl/).
+- 💻 Software Developer at [Nnodes](https://nnodes.com/).
 - 😄 Pronouns: he/him
 
 <br />
