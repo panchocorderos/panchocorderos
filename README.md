@@ -14,10 +14,6 @@ I'm a passionate student and technology enthusiast. I love learn new tools and m
 
 <br />
 
-## What i'm up to
-  
-- 🌱 I’m currently learning [React](https://reactjs.org).
-- 💻 Software Developer at [Nnodes](https://nnodes.com/).
 - 😄 Pronouns: he/him
 
 <br />
