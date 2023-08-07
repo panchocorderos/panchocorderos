@@ -7,6 +7,7 @@
   <b>Summary</b>
   <br />
   backend wizard 🧙‍♂️ - cloud enthusiast 🤓
+  <br />
   community lover ✨ - JSConf Chile Core team member
   <br />
   Pronouns: he/him 
