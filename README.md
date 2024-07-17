@@ -8,8 +8,6 @@
   <br />
   backend wizard 🧙‍♂️ - cloud enthusiast 🤓
   <br />
-  community lover ✨ - JSConf Chile Core team member
-  <br />
   Pronouns: he/him 
   <br />
   Tools: NodeJs, Ruby on Rails, React, Vue, Express, PostgreSQL
